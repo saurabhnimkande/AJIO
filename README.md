@@ -2,7 +2,7 @@ Clone Ajio.com
 
 This is the clone of Ajio.com ,which we made during the UNIT III Construct Week.
 ```
-Disclamer:This Clone is used for only Educational Purposes.
+Disclamer:This Clone is used for Educational Purposes only.
 ```
 
 ## Screenshots
