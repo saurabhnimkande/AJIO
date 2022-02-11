@@ -459,11 +459,7 @@ let steone = setTimeout(() => {
   }
   let logo_navbar = document.getElementById("navbar_ajio_logo");
   function logo_navbar_link() {
-<<<<<<< HEAD:scripts/navbar.js
-    window.location.href = "index.html";
-=======
     window.location.href = "/";
->>>>>>> origin/Saurabh:src/Public/scripts/navbar.js
   }
   logo_navbar.addEventListener("click", logo_navbar_link);
 
