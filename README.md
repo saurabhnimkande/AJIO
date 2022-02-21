@@ -4,6 +4,8 @@ This is the clone of Ajio.com ,which we made during the UNIT IV Construct Week.
 ```
 Disclamer:This Clone is used for Educational Purposes only.
 ```
+## Deployed Link
+[Ajio Clone](https://ajioclone.herokuapp.com/)
 
 ## Screenshots
 
